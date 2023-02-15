@@ -46,5 +46,5 @@ $\alpha, \beta, \gamma \in [0,1]$ - параметры сглаживания М
 После построения бейзлайна требуется провести манипуляции с данными в соответствии с рекомендациями и подобрать гиперпараметры модели в целях улучшения метрик ее работы (прогнозирования).
 
 <p align="center">
-![image](https://user-images.githubusercontent.com/114169524/219016910-cea10ede-051a-480c-a978-0f18be344e6a.png)
+<img width="734" alt="image" src="https://user-images.githubusercontent.com/114169524/219017037-d6e923ae-bf22-43d5-b33d-16bfd8c82788.png">
 </p>
