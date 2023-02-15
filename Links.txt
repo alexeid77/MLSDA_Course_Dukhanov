@@ -1,0 +1,45 @@
+Links to video
+
+
+From Teacher
+
+Org
+https://youtu.be/mEMRBv3EnFw
+
+Lesson_1 Numpy Pandas Git
+https://youtu.be/vIV-lNBXG8A
+
+Lesson_2 EDA
+https://youtu.be/p3OVhA0Am6U
+
+Lesson_3 Vis
+https://youtu.be/n2rALWl89ac
+
+Lesson_4 ML Task Typology
+https://youtu.be/3jrR7xVM-gA
+
+Lesson_5 Metrics
+https://youtu.be/hmTVlgO4-qo
+
+Lesson_6 Basic Models
+https://youtu.be/vYCE9DgUAa4
+
+Lesson_7 Hyper Params Opt
+https://youtu.be/MdI9lg6X7sE
+
+Lesson_8 Experiment Reperform
+https://youtu.be/9VEZtYhiulM
+
+Lesson_9 Ensemple and Interpretation
+https://youtu.be/PSNtbxVHVyI
+
+Lesson_10 Neural Networks
+https://youtu.be/I1gG-YrlV18
+
+
+From Works (Videocomments)
+2. EDA
+https://disk.yandex.ru/d/_OAI3MC7YHaNfA
+
+3. Hyper Params Opt
+https://disk.yandex.ru/d/owHqKqGGul5tOw
